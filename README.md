@@ -7,3 +7,4 @@ Todo app para aplicação de conceitos de Clean archtecture, Clean Code, Design 
 - NodeJS
 - Typesctript
 - VueJs
+- Svelte

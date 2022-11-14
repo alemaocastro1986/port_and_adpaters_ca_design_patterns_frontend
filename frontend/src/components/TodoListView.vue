@@ -7,7 +7,6 @@ import TodoGateway from '../gateways/TodoGateway';
 import TodoListComponent from './TodoListComponent.vue';
 
 let data: any = reactive({ todoList: new TodoList() })
-const description = ref("");
 
 const todoGateway = inject('todoGateway') as TodoGateway
 
